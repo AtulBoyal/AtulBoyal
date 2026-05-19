@@ -1,6 +1,6 @@
 # Hi, I'm Atul Boyal 👋
 
-### Full-Stack Product Engineer | Systems & Optimization | Building Real-Time Products
+### OCS IITH Internship Coordinator | Full-Stack Product Engineer | Systems & Optimization | Building Real-Time Products
 
 I'm a 3rd-year CSE student at **IIT Hyderabad** passionate about building scalable systems, shipping production-grade products, and solving complex engineering problems. My work spans **full-stack development** (React + Node.js + PostgreSQL), **real-time systems** (WebSockets), and **systems optimization**.
 
