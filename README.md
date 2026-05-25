@@ -121,7 +121,7 @@ I'm a 3rd-year CSE student at **IIT Hyderabad** passionate about building scalab
 I'm always interested in discussing **full-stack development, system design, real-time systems, and building products that matter**.
 
 - **Email**: [atulboyal55@gmail.com](mailto:atulboyal55@gmail.com)
-- **LinkedIn**: [linkedin.com/in/atul-boyal](https://linkedin.com/in/atul-boyal) (update this with your actual LinkedIn)
+- **LinkedIn**: [linkedin.com/in/atul-boyal](https://linkedin.com/in/atul-boyal)
 - **Portfolio**: Check out my pinned projects below 👇
 
 ---
