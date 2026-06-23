@@ -2,25 +2,24 @@
 
 **Computer Science & Engineering @ IIT Hyderabad**
 
-Interested in **Systems Programming, Performance Engineering, Operating Systems, and Full-Stack Product Development**.
+I enjoy building software across different layers of the stack—from kernel-level operating system enhancements and performance optimization to full-stack products used by real users.
+
+My primary interests include:
+
+* Operating Systems
+* Systems Programming
+* Performance Engineering
+* Full-Stack Product Development
 
 ---
 
-## About Me
+## Highlights
 
-I enjoy building software across different layers of the stack—from kernel-level operating system enhancements and CPU scheduling policies to full-stack web applications used by real users.
-
-My recent work includes extending the xv6 operating system, developing an eBPF-based hybrid CPU scheduler, optimizing integer workloads using ARM NEON SIMD instructions, and building production-grade web platforms and productivity tools.
-
----
-
-## Selected Highlights
-
-* Extended xv6 with custom system calls, SC-MLFQ scheduling, virtual memory enhancements, Clock page replacement, and swap-backed memory management.
-* Built a hardware-aware hybrid task scheduler using eBPF, PMU telemetry, and workload classification for heterogeneous CPU architectures.
+* Extended the xv6 RISC-V operating system with custom system calls, process accounting, SC-MLFQ scheduling, Clock page replacement, and swap-backed virtual memory management.
+* Developed a hardware-aware Linux task scheduler using eBPF and PMU telemetry for heterogeneous CPU architectures.
 * Achieved up to **2.68× speedup** on integer-heavy workloads using ARM NEON SIMD optimizations.
-* Developed a realtime productivity platform featuring authentication, recurring workflows, analytics, and cross-device synchronization.
-* Built the production web platform for IIT Hyderabad's Sunshine mental-health initiative.
+* Built full-stack productivity and community platforms used by real users.
+* Serving as an **Internship Coordinator** at the Office of Career Services, IIT Hyderabad.
 
 ---
 
@@ -28,29 +27,45 @@ My recent work includes extending the xv6 operating system, developing an eBPF-b
 
 ### Operating Systems & Systems Programming
 
-* **Extending xv6**
-  Kernel-level enhancements including system calls, process accounting, SC-MLFQ scheduling, virtual memory management, Clock page replacement, and swapping.
+#### 🚀 Extending_xv6
 
-* **Hardware-Aware Hybrid Task Scheduler**
-  eBPF-based scheduler using PMU telemetry and runtime workload classification to intelligently route tasks across heterogeneous CPU cores.
+Kernel-level enhancements to xv6 RISC-V including custom system calls, SC-MLFQ scheduling, virtual memory management, Clock page replacement, and swapping.
+
+#### ⚙️ Hardware-Aware Hybrid Task Scheduler
+
+Linux scheduler enhancements using eBPF telemetry, PMU counters, workload classification, and heterogeneous CPU scheduling.
+
+---
 
 ### Performance Engineering
 
-* **Accelerating Integer Computations Using ARM NEON**
-  SIMD-accelerated implementations of matrix multiplication, dot products, and image-processing kernels on ARM Cortex-A76 processors.
+#### 🔬 Accelerating Integer Computations Using ARM NEON
+
+SIMD-accelerated implementations of matrix multiplication, dot products, and image-processing kernels on ARM Cortex-A76 processors.
+
+---
 
 ### Product Engineering
 
-* **TaskVault (TasksManager)**
-  Full-stack productivity platform with realtime synchronization, recurring workflows, analytics, authentication, and secure data management.
+#### 📋 TaskVault (TasksManager)
 
-* **InterviewPrepAB** *(Work in Progress)*
-  AI-assisted interview preparation platform featuring speech transcription, conversational AI interactions, interview analytics, and personalized interview workflows.
+Full-stack productivity platform featuring realtime synchronization, recurring workflows, analytics, secure authentication, and cross-device access.
+
+#### 🎤 InterviewPrepAB *(Work in Progress)*
+
+AI-assisted interview preparation platform featuring speech transcription, conversational AI interactions, personalized interview workflows, and performance analytics.
+
+---
 
 ### Community Impact
 
-* **Sunshine Platform**
-  Built the initial production website for IIT Hyderabad's Sunshine mental-health support initiative, serving students through accessible information, support resources, and organizational content.
+#### 🌞 Sunshine Platform
+
+Built the production web platform for IIT Hyderabad's Sunshine mental-health initiative, supporting organizational content, student resources, and newsletter management.
+
+#### 🗺️ Campus Navigation
+
+Interactive campus navigation platform for IIT Hyderabad featuring landmark discovery, route visualization, and location-aware navigation.
 
 ---
 
@@ -78,28 +93,7 @@ Git, Docker, QEMU, Postman, Linux
 
 ---
 
-## Experience
-
-### Internship Coordinator — Office of Career Services, IIT Hyderabad
-
-Working with recruiters, companies, and students to support internship outreach, coordination, and engagement initiatives across the institute.
-
----
-
-## Academic & Research Projects
-
-Some academic and research projects are not publicly available due to ongoing work, publication considerations, or course repository restrictions.
-
-Areas explored include:
-
-* Operating Systems (xv6 kernel extensions, scheduling, virtual memory)
-* Linux Performance Engineering (eBPF, PMU telemetry, heterogeneous CPU scheduling)
-* Computer Architecture (ARM NEON SIMD optimization)
-* Kernel-level systems development and performance analysis
-
----
-
-## Currently Exploring
+## Current Focus
 
 * Operating Systems & Kernel Development
 * Distributed Systems
