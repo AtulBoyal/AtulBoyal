@@ -1,137 +1,104 @@
 # Hi, I'm Atul Boyal 👋
 
-### OCS IITH Internship Coordinator | Systems & Optimization | Building Real-Time Products
+**Computer Science & Engineering @ IIT Hyderabad**
 
-I'm a 3rd-year CSE student at **IIT Hyderabad** passionate about building scalable systems, shipping production-grade products, and solving complex engineering problems. My work spans **full-stack development** (React + Node.js + PostgreSQL), **real-time systems** (WebSockets), and **systems optimization**.
-
----
-
-## 🚀 What I Build
-
-**Full-Stack Products** → End-to-end features with focus on performance, scalability, and user experience  
-**Real-Time Systems** → WebSocket-based applications handling thousands of concurrent connections  
-**Systems & OS** → Kernel-level enhancements, optimization, and low-level computing  
-**Scalable Backends** → APIs designed for millions of requests with sub-100ms latency  
+Interested in **Systems Programming, Performance Engineering, Operating Systems, and Full-Stack Product Development**.
 
 ---
 
-## 📊 Featured Projects
+## About Me
 
-### 🥇 [Campus Navigation](https://github.com/AtulBoyal/campus-navigation) | [Live Demo](https://campus-navigation-henna.vercel.app/)
-**Real-time campus navigation platform with interactive maps and location tracking**
+I enjoy building software across different layers of the stack—from kernel-level operating system enhancements and CPU scheduling policies to full-stack web applications used by real users.
 
-- **What**: Smart navigation system for campus exploration
-- **Tech Stack**: React.js, Node.js, PostgreSQL, Leaflet Maps, Docker
-- **Key Features**: 
-  - Interactive map visualization with route optimization
-  - Responsive design for mobile-first access
-- **Impact**: Improves campus accessibility and student experience
-
-**Status**: ✅ Deployed & Live | 🔗 [Try it now](https://campus-navigation-henna.vercel.app/)
+My recent work includes extending the xv6 operating system, developing an eBPF-based hybrid CPU scheduler, optimizing integer workloads using ARM NEON SIMD instructions, and building production-grade web platforms and productivity tools.
 
 ---
 
-### 💼 [TasksManager](https://github.com/AtulBoyal/TasksManager) | [Live Demo](https://tasks-manager-coral.vercel.app/)
-**Modern full-stack task management platform with real-time collaboration**
+## Selected Highlights
 
-- **What**: Production-ready task management app with real-time sync and secure auth
-- **Tech Stack**: React.js, Node.js, PostgreSQL, Supabase, Tailwind CSS, Docker
-- **Key Features**:
-  - Real-time task updates across devices (WebSockets)
-  - Secure JWT-based authentication
-  - Optimized database queries and caching strategy
-  - Smart task organization and filtering
-  - Responsive, intuitive UI
-- **Performance**: <200ms API latency, optimized React rendering
-- **Code Quality**: Clean architecture, modular components, proper error handling
-
-**Status**: ✅ Deployed & Live | 🔗 [Try it now](https://tasks-manager-coral.vercel.app/)
+* Extended xv6 with custom system calls, SC-MLFQ scheduling, virtual memory enhancements, Clock page replacement, and swap-backed memory management.
+* Built a hardware-aware hybrid task scheduler using eBPF, PMU telemetry, and workload classification for heterogeneous CPU architectures.
+* Achieved up to **2.68× speedup** on integer-heavy workloads using ARM NEON SIMD optimizations.
+* Developed a realtime productivity platform featuring authentication, recurring workflows, analytics, and cross-device synchronization.
+* Built the production web platform for IIT Hyderabad's Sunshine mental-health initiative.
 
 ---
 
-### 📚 [Sunshine Mental Health Platform](https://github.com/AtulBoyal/sunshine_web_iith) | [Live Demo](https://sunshine.iith.ac.in/)
-**Official mental health support platform for IIT Hyderabad serving 5,000+ students**
+## Featured Projects
 
-- **What**: Scalable community mental health support platform with accessibility focus
-- **Tech Stack**: React.js, Node.js, Express, PostgreSQL, Tailwind CSS
-- **Key Achievements**:
-  - Mobile-first responsive design
-  - Serving 5,000+ active students and faculty
-  - Complex multi-level dynamic routing
-  - Newsletter management with PDF integration
-- **Architecture**: Reusable component system, scalable state management, proper Git workflows
-- **Impact**: Real-world product impacting thousands of lives
+### Operating Systems & Systems Programming
 
-**Status**: ✅ Live in Production | 🔗 [Visit Platform](https://sunshine.iith.ac.in/)
+* **Extending xv6**
+  Kernel-level enhancements including system calls, process accounting, SC-MLFQ scheduling, virtual memory management, Clock page replacement, and swapping.
 
----
+* **Hardware-Aware Hybrid Task Scheduler**
+  eBPF-based scheduler using PMU telemetry and runtime workload classification to intelligently route tasks across heterogeneous CPU cores.
 
-### 🖥️ [Extending xv6 Operating System](https://github.com/AtulBoyal/xv6-extensions)
-**Advanced kernel-level enhancements to RISC-V xv6 operating system**
+### Performance Engineering
 
-- **What**: Custom kernel implementations including system calls, schedulers, and memory management
-- **Technologies**: C, xv6 RISC-V, Linux kernel concepts, QEMU
-- **Implementations**:
-  - ✅ Custom system calls for process-level accounting
-  - ✅ SC-MLFQ scheduler (System-Call-Aware Multi-Level Feedback Queue)
-  - ✅ Clock-based page replacement with swapping
-  - ✅ Performance profiling and kernel statistics
-- **Depth**: Process management, trap handling, virtual memory, page faults
-- **Testing**: Comprehensive kernel/user-space integration testing
-- **Learning**: Deep understanding of OS internals, scheduling algorithms, memory hierarchies
+* **Accelerating Integer Computations Using ARM NEON**
+  SIMD-accelerated implementations of matrix multiplication, dot products, and image-processing kernels on ARM Cortex-A76 processors.
 
-**Status**: ✅ Tested & Documented | Well-organized codebase
+### Product Engineering
+
+* **TaskVault (TasksManager)**
+  Full-stack productivity platform with realtime synchronization, recurring workflows, analytics, authentication, and secure data management.
+
+* **InterviewPrepAB** *(Work in Progress)*
+  AI-assisted interview preparation platform featuring speech transcription, conversational AI interactions, interview analytics, and personalized interview workflows.
+
+### Community Impact
+
+* **Sunshine Platform**
+  Built the initial production website for IIT Hyderabad's Sunshine mental-health support initiative, serving students through accessible information, support resources, and organizational content.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Areas
 
-**Frontend**: React.js, TypeScript, Hooks, State Management (Redux), Tailwind CSS, Responsive Design  
-**Backend**: Node.js, Express.js, REST API Design, Authentication (JWT), Input Validation  
-**Databases**: PostgreSQL, Query Optimization, Indexing, Data Modeling  
-**Systems**: Real-time Architecture, WebSockets, Caching (Redis), Docker  
-**DevOps**: Docker, Docker Compose, CI/CD basics, Deployment (Vercel, Railway)  
-**OS/Systems**: xv6 kernel, C programming, System calls, Scheduling, Virtual memory  
-**Tools**: Git, GitHub, Linux, QEMU, Postman, VS Code  
+### Languages
 
----
+C++, Java, Python, JavaScript, SQL
 
-## 📈 GitHub Stats
+### Systems
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtulBoyal&show_icons=true&theme=dark&count_private=true)](https://github.com/AtulBoyal)
+Linux, xv6, eBPF, CPU Scheduling, Virtual Memory, Performance Optimization
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulBoyal&layout=compact&theme=dark)](https://github.com/AtulBoyal)
+### Backend
 
----
+Node.js, Express.js, PostgreSQL, Supabase, REST APIs
 
-## 🎓 Background
+### Frontend
 
-- **Education**: 3rd Year Computer Science & Engineering, IIT Hyderabad
-- **GPA**: 8.12/10
-- **Focus Areas**: Full-Stack Development, Real-Time Systems, Systems & OS
-- **Achievements**: 
-  - 🥇 Lambda Hackathon 2025: 1st Place (Real-time Routing System)
-  - Built products serving 5,000+ active users
-  - Shipped production-grade full-stack applications
+React, Tailwind CSS, Responsive UI Development
+
+### Tools
+
+Git, Docker, QEMU, Postman, Linux
 
 ---
 
-## 📬 Let's Connect
+## Experience
 
-I'm always interested in discussing **full-stack development, system design, real-time systems, and building products that matter**.
+### Internship Coordinator — Office of Career Services, IIT Hyderabad
 
-- **Email**: [atulboyal55@gmail.com](mailto:atulboyal55@gmail.com)
-- **LinkedIn**: [linkedin.com/in/atul-boyal](https://linkedin.com/in/atul-boyal)
-- **Portfolio**: Check out my pinned projects below 👇
+Working with recruiters, companies, and students to support internship outreach, coordination, and engagement initiatives across the institute.
 
 ---
 
-## 🎯 Currently Working On
+## Currently Exploring
 
-- 🚀 **InterviewPrepAB**: Building a structured interview preparation platform for students
-- 📚 **Learning**: Advanced system design, distributed systems, performance optimization
-- 🔬 **Exploring**: Real-time collaboration features, WebSocket optimization, scalable architectures
+* Operating Systems & Kernel Development
+* Distributed Systems
+* Performance Engineering
+* System Design
+* AI-Integrated Software Products
 
 ---
 
-**Last Updated**: May 2026 | 🌱 Always learning, always building
+## Connect
+
+* Email: [atulboyal55@gmail.com](mailto:atulboyal55@gmail.com)
+* LinkedIn: linkedin.com/in/atul-boyal
+
+Thanks for stopping by!
