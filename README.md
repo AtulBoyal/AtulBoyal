@@ -33,7 +33,7 @@ Kernel-level enhancements to xv6 RISC-V including custom system calls, SC-MLFQ s
 
 #### ⚙️ Hardware-Aware Hybrid Task Scheduler
 
-Linux scheduler enhancements using eBPF telemetry, PMU counters, workload classification, and heterogeneous CPU scheduling.
+Research-oriented systems project exploring workload-aware scheduling on heterogeneous CPU architectures using Linux performance telemetry.
 
 ---
 
