@@ -86,6 +86,19 @@ Working with recruiters, companies, and students to support internship outreach,
 
 ---
 
+## Academic & Research Projects
+
+Some academic and research projects are not publicly available due to ongoing work, publication considerations, or course repository restrictions.
+
+Areas explored include:
+
+* Operating Systems (xv6 kernel extensions, scheduling, virtual memory)
+* Linux Performance Engineering (eBPF, PMU telemetry, heterogeneous CPU scheduling)
+* Computer Architecture (ARM NEON SIMD optimization)
+* Kernel-level systems development and performance analysis
+
+---
+
 ## Currently Exploring
 
 * Operating Systems & Kernel Development
